@@ -13,4 +13,8 @@ namespace ConsoleApp1
             Console.WriteLine("Hrvatska");
         }
     }
+    class NewClass
+    {
+
+    }
 }
