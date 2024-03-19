@@ -15,6 +15,6 @@ namespace ConsoleApp1
     }
     class NewClass
     {
-
+        Console.WriteLine("Konflikt\n");
     }
 }
