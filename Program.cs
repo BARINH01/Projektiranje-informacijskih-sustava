@@ -10,6 +10,7 @@ namespace ConsoleApp1
         {
             Console.WriteLine("Hello world!");
             Console.WriteLine("Gym\n");
+            Console.WriteLine("Hrvatska");
         }
     }
 }
