@@ -17,6 +17,7 @@ namespace ConsoleApp1
     {
         static int Main(string[] args)
         {
+            Console.WriteLine("Konflikt\n");
             return 0;
         }
     }
