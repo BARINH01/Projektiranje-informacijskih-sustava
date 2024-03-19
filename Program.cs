@@ -15,6 +15,9 @@ namespace ConsoleApp1
     }
     class NewClass
     {
-
+        static int Main(string[] args)
+        {
+            return 0;
+        }
     }
 }
